@@ -1,12 +1,15 @@
 RepoFilmesAngular utiliza as melhores tecnicas da tecnologia Angular
 
-Para utilizar rode os seguintes comandos
+**Para utilizar rode os seguintes comandos**
 
-Backend: 
+**Backend: **
+```
 npm install -g json-server
 json-server --watch db.json
+```
 
-
-Frontend:
+**Frontend:**
+```
 npm install
 npm start
+```
